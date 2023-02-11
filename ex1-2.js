@@ -1,3 +1,3 @@
-function sayhello71(){
- alert('Hello, ' + document.getElementById('who71').value + '!');
+function sayhello1(){
+ alert('Hello, ' + document.getElementById('who1').value + '!');
 }
