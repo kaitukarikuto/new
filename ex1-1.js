@@ -1,3 +1,1 @@
-function sayhello() {
-    alert('こんにちは!');
-    }
+alert('こんにちは');
